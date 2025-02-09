@@ -33,7 +33,7 @@
 &nbsp; <a href="https://www.instagram.com/eren.dnmzzz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
 </a>  
-&nbsp; <a href="https://www.linkedin.com/in/eren-d%C3%B6nmez-089020336/" target="_blank" rel="noopener noreferrer">
+&nbsp; <a href="www.linkedin.com/in/erendnmz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
 </a>  
 &nbsp; <a href="mailto:eren.donmez@std.medipol.edu.tr" target="_blank" rel="noopener noreferrer">
